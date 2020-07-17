@@ -1,2 +1,2 @@
 
-![贫穷的我](/ops.jpg)
+![贫穷的我](CallMeReznov/CallMeReznov/ops.jpg)
