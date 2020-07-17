@@ -1,2 +1,2 @@
 
-![贫穷的我]("https://github.com/CallMeReznov/CallMeReznov/blob/master/ops.jpg")
+![贫穷的我]("https://raw.githubusercontent.com/CallMeReznov/CallMeReznov/master/ops.jpg")
